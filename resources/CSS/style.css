@@ -1,0 +1,17 @@
+html {font-family: Helvetica;text-align: center;}
+
+h1 {color:white; font-weight: bold;font-size: 70px;}
+
+.heading1 {background: url(../images/the-flatiron-building.png);}
+
+#DINY { background-image: url(../images/the-flatiron-building.png); font-size: 23px}
+
+h2 {font-size: 32px;}
+
+h3 {font-size: 23px;}
+
+p {font-size: 14px;}
+
+a {color: white; font-size:18px; text-align: center;}
+
+#copyright{text-align: left;background-color: dimgray;}
